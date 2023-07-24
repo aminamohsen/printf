@@ -1,6 +1,6 @@
-nclude "main.h"
+#include "main.h"
 
-/** PRINT CHAR **/
+/************************* PRINT CHAR *************************/
 
 /**
  * print_char - Prints a char
@@ -186,3 +186,5 @@ int print_binary(va_list types, char buffer[],
 	}
 	return (count);
 }
+
+
