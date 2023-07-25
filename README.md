@@ -1,1 +1,1 @@
-It is hard
+hard times
